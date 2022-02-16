@@ -1,0 +1,3 @@
+Temp/ScriptUpdater/1655989618\364416953_TonemappingEditor.cs => Assets/NatureStarterKit2/Editor/ImageEffects/TonemappingEditor.cs
+Temp/ScriptUpdater/1655989618\202643794_BloomAndFlaresEditor.cs => Assets/NatureStarterKit2/Editor/ImageEffects/BloomAndFlaresEditor.cs
+Temp/ScriptUpdater/1655989618\517698748_BloomEditor.cs => Assets/NatureStarterKit2/Editor/ImageEffects/BloomEditor.cs
